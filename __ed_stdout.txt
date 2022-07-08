@@ -1,0 +1,8 @@
+README.md
+__ed_script.sh
+__ed_stderr.txt
+__ed_stdout.txt
+app
+lost+found
+main.sh
+output
